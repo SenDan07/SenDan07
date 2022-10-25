@@ -1,7 +1,7 @@
 <img height="250" width="950" src="https://gifimage.net/wp-content/uploads/2018/11/cyberpunk-pixel-art-gif-5.gif">
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Web Developer and tech enthusiast 💻</h3>
-<img align="right" alt="comfy-coding" width="125" src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif">
+<img align="right" alt="comfy-coding" width="200" src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendan07&label=Profile%20views&color=0e75b6&style=flat" alt="sendan07" /> </p>
 
