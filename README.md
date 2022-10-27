@@ -1,6 +1,6 @@
 <img height="250" width="950" src="https://gifimage.net/wp-content/uploads/2018/11/cyberpunk-pixel-art-gif-5.gif">
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A web developer and tech enthusiast 💻</h3>
+<h3 align="center">A web developer and videogame lover 💻</h3>
 
 # 💫 About Me:
 -💻 Self taught web developer with some experience using PERN and MERN stacks.<br><br>- 🚀 I’m currently working on a Social Network App<br><br>- 🌱 I’m currently learning PHP and Python<br><br>- 💬 Ask me about React, NodeJS and PostgreSQL<br><br>- 📫 You can reach me via my email: dan.rmov@gmail.com<br><br>-  🐕 Fun fact: I love kittens! 
