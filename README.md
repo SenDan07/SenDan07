@@ -22,5 +22,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=SenDan07&icon=3&color=9)](https://visitcount.itsvg.in)
