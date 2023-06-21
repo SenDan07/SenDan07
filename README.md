@@ -3,7 +3,7 @@
 <h3 align="center">A web developer and videogame lover 💻</h3>
 
 # 💫 About Me:
--💻 Full Stack Web Developer experienced in using PERN and MERN stacks.<br><br>- 🚀 I’m currently building several personal projects to hone my skills!<br><br>- 🌱 I’m currently learning about designt patterns and microservices architecture.<br><br>- 💬 Ask me about web development with technologies derived from Javascript.<br><br>- 📫 You can reach me via my email: dan.rmov@gmail.com<br><br>-  🐕 Fun fact: I love kittens! 
+-💻 Full Stack Web Developer experienced in using PERN and MERN stacks.<br><br>- 🚀 I’m currently building several personal projects to hone my skills!<br><br>- 🌱 I’m currently learning about designt patterns and microservices architecture.<br><br>- 💬 Ask me about web development with technologies derived from Javascript.<br><br>- 🐕 Fun fact: I love kittens! 
 
 
 ## 🌐 Socials:
