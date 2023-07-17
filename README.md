@@ -1,9 +1,9 @@
 <img height="250" width="950" src="https://github.com/SenDan07/GH-PP-Picture/blob/main/d327635099eee0bd6f192b6fd9bd5757.gif">
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A web developer and videogame lover 💻</h3>
+<h3 align="center">A fullstack developer and videogame lover 💻</h3>
 
 # 💫 About Me:
--💻 Full Stack Web Developer experienced in using PERN and MERN stacks.<br><br>- 🚀 I’m currently building several personal projects to hone my skills!<br><br>- 🌱 I’m currently learning about designt patterns and microservices architecture.<br><br>- 💬 Ask me about web development with technologies derived from Javascript.<br><br>- 🐕 Fun fact: I love kittens! 
+-💻 Full Stack Web Developer experienced in using PERN and MERN stacks.<br><br>- Currently building several personal projects to hone my skills!<br><br>- Also learning about design patterns and microservices architecture.<br><br>- Experienced in development with technologies derived from Javascript.<br><br>- 🐕 Fun fact: I love kittens! 
 
 
 ## 🌐 Socials:
